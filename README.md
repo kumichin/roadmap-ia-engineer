@@ -7,7 +7,7 @@ Este es mi camino intensivo de 6 meses, 100% autodidacta, con cursos gratuitos, 
 ## 📅 MES 1: Fundamentos técnicos, matemáticas y Python
 
 ### Semana 1:
-- [ ] Kaggle - Intro to Programming
+- [✅] Kaggle - Intro to Programming
 - [ ] Kaggle - Python
 - [ ] Khan Academy - Fundamentos de álgebra
 
