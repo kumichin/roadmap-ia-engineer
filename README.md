@@ -1,4 +1,4 @@
-# 🧠 Plan de Estudios: Convertirme en la mejor Ingeniera de Inteligencia Artificial del mundo
+# 🧠 Reto imposible on: Convertirme en la mejor Ingeniera de Inteligencia Artificial del mundo
 
 Este es mi camino intensivo de 6 meses, 100% autodidacta, con cursos gratuitos, ejercicios prácticos y una meta muy clara: dominar la IA desde cero.
 
